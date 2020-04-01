@@ -13,6 +13,7 @@ function theBeatlesPlay(musicians, instruments) {
 function johnLennonFacts(facts) {
   var newArr = []
   let i = 0
+  const exlam = "!!!"
   while () {
     
   }
