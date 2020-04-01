@@ -30,6 +30,6 @@ function iLoveTheBeatles(num) {
     num++
     i++;
   } 
-  while (i<num)
+  while (num<15)
   return newArr
 }
