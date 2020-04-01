@@ -14,7 +14,8 @@ function johnLennonFacts(facts) {
   var newArr = []
   let i = 0
   const exlam = "!!!"
-  while () {
+  while (facts[i]) {
+    i++;
     
   }
   
